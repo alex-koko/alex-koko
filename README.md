@@ -6,9 +6,9 @@
 </div>
 <br>
 
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lklim79">
-<img  src="http://mazandi.herokuapp.com/api?handle=lklim79">
+<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=backalex">
+<img  src="http://mazandi.herokuapp.com/api?handle=backalex">
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjongheok&layout=compact" height="200"/></br>
-<img src="https://github-readme-stats.vercel.app/api?username=limjongheok&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-koko&layout=compact" height="200"/></br>
+<img src="https://github-readme-stats.vercel.app/api?username=alex-koko&show_icons=true&theme=radical">
 </div>
